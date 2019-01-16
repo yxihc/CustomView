@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':GALeafLoading-master', ':FlipShare', ':FlipShare-master', ':SharedElementTransitionDemo'

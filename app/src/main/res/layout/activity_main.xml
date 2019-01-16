@@ -7,8 +7,24 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <com.taopao.customview.MyCustomView1
-        android:layout_width="match_parent"
-        android:layout_height="20dp" />
+    <com.taopao.customview.ScaleLayoutView
+        android:id="@+id/scaleview"
+        android:layout_width="400dp"
+        android:layout_height="300dp"></com.taopao.customview.ScaleLayoutView>
 
+    <com.taopao.customview.PieView
+        android:id="@+id/pieview"
+        android:layout_width="200dp"
+        android:layout_height="200dp" />
+
+    <com.taopao.customview.MyImageView
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorPrimary" />
+
+    <com.taopao.customview.Bezier
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp" />
 </LinearLayout>

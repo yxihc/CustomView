@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CustomView.iml" filepath="$PROJECT_DIR$/CustomView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlipShare/FlipShare.iml" filepath="$PROJECT_DIR$/FlipShare/FlipShare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlipShare-master/FlipShare-master.iml" filepath="$PROJECT_DIR$/FlipShare-master/FlipShare-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GALeafLoading-master/GALeafLoading-master.iml" filepath="$PROJECT_DIR$/GALeafLoading-master/GALeafLoading-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SharedElementTransitionDemo/SharedElementTransitionDemo.iml" filepath="$PROJECT_DIR$/SharedElementTransitionDemo/SharedElementTransitionDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
